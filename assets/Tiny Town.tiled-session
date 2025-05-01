@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tiny Town.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Tiny Town.tmx": {
+            "scale": 3.7109375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 80.0336842105263,
+                "y": 79.89894736842105
+            }
+        },
+        "Tiny Town.tmx#tiny-town-packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "D:/A UCSC Work/120/TopDownWorld/assets",
+    "last.imagePath": "D:/A UCSC Work/120/TopDownWorld/assets",
+    "map.height": 10,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "Tiny Town.tmx"
+    ],
+    "project": "Tiny Town.tiled-project",
+    "recentFiles": [
+        "Tiny Town.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
